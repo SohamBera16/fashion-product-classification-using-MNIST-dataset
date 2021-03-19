@@ -64,7 +64,7 @@ def predict(model, image, correct_label):
 def show_image(img, label, guess):
   plt.figure()
   plt.imshow(img, cmap=plt.cm.binary)
-  plt.title("Excpected: " + label)
+  plt.title("Expected: " + label)
   plt.xlabel("Guess: " + guess)
   plt.colorbar()
   plt.grid(False)
