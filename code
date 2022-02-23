@@ -1,5 +1,5 @@
 %tensorflow_version 2.x  # this line is not required unless you are in a notebook
-# TensorFlow and tf.keras
+# Loading necessary libraries - TensorFlow and keras 
 import tensorflow as tf
 from tensorflow import keras
 
