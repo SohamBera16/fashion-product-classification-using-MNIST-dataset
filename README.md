@@ -2,4 +2,4 @@
 
 ## Steps: 
 1. Data Loading 
-2. Data Preprocessing 
+2. Data Preprocessing (Resizing)
