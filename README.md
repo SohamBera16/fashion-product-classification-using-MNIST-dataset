@@ -6,4 +6,5 @@
 3. Creating the Artificial Neural Network Model
 4. Hyperparameter Setting
 5. Train the model
-6. Make Inference on the trained model
+6. Evaluating the model on test dataset
+7. Make Inference using the trained model
