@@ -10,3 +10,4 @@
 7. Make Inference using the trained model
 
 ## Model performance:
+Accuracy score of the lightweight model: 87.98% (after 10 epochs)
